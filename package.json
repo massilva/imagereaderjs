@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/massilva/imagereaderjs/issues"
   },
-  "homepage": "https://github.com/massilva/imagereaderjs#readme"
+  "homepage": "https://github.com/massilva/imagereaderjs#readme",
+  "dependencies": {
+    "tesseract.js": "^1.0.10"
+  }
 }
